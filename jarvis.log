@@ -1,0 +1,56 @@
+2025-08-15 15:46:03,849 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\daspi\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-15 15:46:03,850 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\daspi\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2025-08-15 15:46:03,989 - __main__ - INFO - Speech engine initialized successfully
+2025-08-15 15:46:03,989 - __main__ - INFO - Voice command system ready
+2025-08-15 15:51:00,159 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\daspi\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-15 15:51:00,159 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\daspi\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2025-08-15 15:51:00,426 - __main__ - INFO - Speech engine initialized successfully
+2025-08-15 15:51:00,426 - __main__ - INFO - Voice command system ready
+2025-08-15 15:53:57,805 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\daspi\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-15 15:53:57,805 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\daspi\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2025-08-15 15:53:57,926 - __main__ - INFO - Speech engine initialized successfully
+2025-08-15 15:53:57,927 - __main__ - INFO - Voice command system ready
+2025-08-15 15:55:47,313 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\daspi\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-15 15:55:47,313 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\daspi\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2025-08-15 15:55:47,560 - __main__ - INFO - Speech engine initialized successfully
+2025-08-15 15:55:47,560 - __main__ - INFO - Voice command system ready
+2025-08-15 15:57:43,447 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\daspi\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-15 15:57:43,447 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\daspi\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2025-08-15 15:57:43,576 - __main__ - INFO - Speech engine initialized successfully
+2025-08-15 15:57:43,576 - __main__ - INFO - Voice command system ready
+2025-08-15 15:59:12,106 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\daspi\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-15 15:59:12,107 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\daspi\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2025-08-15 15:59:12,243 - __main__ - INFO - Speech engine initialized successfully
+2025-08-15 15:59:12,243 - __main__ - INFO - Voice command system ready
+2025-08-15 16:00:09,509 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\daspi\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-15 16:00:09,509 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\daspi\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2025-08-15 16:00:09,640 - __main__ - INFO - Speech engine initialized successfully
+2025-08-15 16:00:09,640 - __main__ - INFO - Voice command system ready
+2025-08-15 16:00:20,894 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\daspi\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-15 16:00:20,895 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\daspi\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2025-08-15 16:00:21,015 - __main__ - INFO - Speech engine initialized successfully
+2025-08-15 16:00:21,015 - __main__ - INFO - Voice command system ready
+2025-08-15 16:00:46,081 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\daspi\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-15 16:00:46,081 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\daspi\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2025-08-15 16:00:46,289 - __main__ - INFO - Speech engine initialized successfully
+2025-08-15 16:00:46,290 - __main__ - INFO - Voice command system ready
+2025-08-15 16:01:32,456 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\daspi\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-15 16:01:32,457 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\daspi\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2025-08-15 16:01:32,585 - __main__ - INFO - Speech engine initialized successfully
+2025-08-15 16:01:32,585 - __main__ - INFO - Voice command system ready
+2025-08-15 16:02:05,112 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\daspi\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-15 16:02:05,113 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\daspi\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2025-08-15 16:02:05,251 - __main__ - INFO - Speech engine initialized successfully
+2025-08-15 16:02:05,251 - __main__ - INFO - Voice command system ready
+2025-08-15 16:09:32,679 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\daspi\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-15 16:09:32,680 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\daspi\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2025-08-15 16:09:32,945 - __main__ - INFO - Speech engine initialized successfully
+2025-08-15 16:09:32,962 - __main__ - INFO - Voice command system ready
+2025-08-15 16:16:07,677 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\daspi\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-15 16:16:07,678 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\daspi\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2025-08-15 16:16:07,824 - __main__ - INFO - Speech engine initialized successfully
+2025-08-15 16:16:07,824 - __main__ - INFO - Voice command system ready
+2025-08-15 16:21:40,045 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\daspi\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-15 16:21:40,046 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\daspi\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+2025-08-15 16:21:40,173 - __main__ - INFO - Speech engine initialized successfully
+2025-08-15 16:21:40,173 - __main__ - INFO - Voice command system ready

@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JARVIS AI Assistant</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header class="header">
+            <div class="logo">
+                <i class="fas fa-robot"></i>
+                <h1>JARVIS</h1>
+                <span class="status-indicator" id="statusIndicator">
+                    <i class="fas fa-circle"></i>
+                </span>
+            </div>
+            <div class="header-controls">
+                <button class="btn-icon" id="voiceToggle" title="Toggle Voice">
+                    <i class="fas fa-microphone"></i>
+                </button>
+                <button class="btn-icon" id="settingsBtn" title="Settings">
+                    <i class="fas fa-cog"></i>
+                </button>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- AI Avatar Section -->
+            <div class="avatar-section">
+                <div class="avatar-container">
+                    <div class="avatar" id="avatar">
+                        <div class="avatar-face">
+                            <div class="eyes">
+                                <div class="eye left-eye"></div>
+                                <div class="eye right-eye"></div>
+                            </div>
+                            <div class="mouth"></div>
+                        </div>
+                        <div class="avatar-glow"></div>
+                    </div>
+                    <div class="listening-indicator" id="listeningIndicator">
+                        <div class="wave"></div>
+                        <div class="wave"></div>
+                        <div class="wave"></div>
+                    </div>
+                </div>
+                <div class="status-text" id="statusText">Ready to assist</div>
+            </div>
+
+            <!-- Chat Interface -->
+            <div class="chat-container">
+                <div class="chat-messages" id="chatMessages">
+                    <div class="message bot-message">
+                        <div class="message-avatar">
+                            <i class="fas fa-robot"></i>
+                        </div>
+                        <div class="message-content">
+                            <p>Hello! I'm JARVIS, your AI assistant. How can I help you today?</p>
+                            <span class="message-time">Just now</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="chat-input-container">
+                    <div class="input-wrapper">
+                        <input type="text" id="chatInput" placeholder="Type your message or click the microphone to speak..." maxlength="500">
+                        <button class="btn-send" id="sendBtn">
+                            <i class="fas fa-paper-plane"></i>
+                        </button>
+                    </div>
+                    <button class="btn-mic" id="micBtn">
+                        <i class="fas fa-microphone"></i>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Quick Actions -->
+            <div class="quick-actions">
+                <h3>Quick Actions</h3>
+                <div class="action-grid">
+                    <button class="action-btn" data-command="What time is it?">
+                        <i class="fas fa-clock"></i>
+                        <span>Get Time</span>
+                    </button>
+                    <button class="action-btn" data-command="Search for latest news">
+                        <i class="fas fa-newspaper"></i>
+                        <span>News</span>
+                    </button>
+                    <button class="action-btn" data-command="Open calculator">
+                        <i class="fas fa-calculator"></i>
+                        <span>Calculator</span>
+                    </button>
+                    <button class="action-btn" data-command="Tell me a joke">
+                        <i class="fas fa-laugh"></i>
+                        <span>Joke</span>
+                    </button>
+                </div>
+            </div>
+        </main>
+
+        <!-- Settings Modal -->
+        <div class="modal" id="settingsModal">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h2>Settings</h2>
+                    <button class="modal-close" id="modalClose">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <div class="setting-group">
+                        <label>Voice Enabled</label>
+                        <label class="toggle">
+                            <input type="checkbox" id="voiceEnabled" checked>
+                            <span class="slider"></span>
+                        </label>
+                    </div>
+                    <div class="setting-group">
+                        <label>Voice Rate</label>
+                        <input type="range" id="voiceRate" min="100" max="300" value="150">
+                        <span id="voiceRateValue">150</span>
+                    </div>
+                    <div class="setting-group">
+                        <label>Theme</label>
+                        <select id="themeSelect">
+                            <option value="dark">Dark</option>
+                            <option value="light">Light</option>
+                            <option value="auto">Auto</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Audio Visualizer -->
+    <canvas id="audioVisualizer" class="audio-visualizer"></canvas>
+
+    <script src="script.js"></script>
+</body>
+</html>
